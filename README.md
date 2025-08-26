@@ -1,9 +1,9 @@
 # MoneyLaundaryDetectionBasic-v1
 
-💸**Money Laundering Detection System**
+**Money Laundering Detection System**
 This project is a simple batch-mode data project built using Scala, Apache Spark, and PostgreSQL, designed to detect potentially suspicious financial transactions from a local CSV file. It also includes a basic dashboard that visualizes suspicious transactions using Spark XChart, with graphs saved as images.
 
-🔧 **Tech Stack**
+ **Tech Stack**
 
 Scala (developed in IntelliJ IDEA),
 Apache Spark (Batch Processing),
@@ -11,7 +11,7 @@ PostgreSQL (for storing suspicious transactions),
 Spark XChart (for dashboard visualization),
 Local CSV files (as data source).
 
-📊 **Features**
+ **Features**
 
 Loads transaction data from a local CSV file.
 Applies business rules to detect suspicious transactions:
